@@ -20,11 +20,11 @@
 
 ## Technologies I'm into and pretty good at
 
-[![My Skills](https://skillicons.dev/icons?i=git,openai,aws,bootstrap,css,docker,express,figma,firebase,github,html,java,js,kotlin,solidity,linux,mongodb,mysql,nextjs,nodejs,nestjs,react,redux,tailwind,ts,apollo,bun,cloudflare,cypress,gcp,gulp,heroku,jest,less,netlify,nginx,npm,prisma,reactivex,redis,regex,sass,sentry,vercel,yarn,chai&perline=13&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,aws,bootstrap,css,docker,express,figma,firebase,github,html,java,js,kotlin,solidity,linux,mongodb,mysql,nextjs,nodejs,nestjs,react,redux,tailwind,ts,apollo,bun,cloudflare,cypress,gcp,gulp,heroku,jest,less,netlify,nginx,npm,prisma,reactivex,redis,regex,sass,sentry,vercel,yarn,chai&perline=13&theme=light)](https://skillicons.dev)
 
 ## My GitHub wins
 
-<a href="https://github.com/meness?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=meness&column=6&margin-w=12&margin-h=15" alt="meness"></a> 
+<a href="https://github.com/RisingStar38?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=meness&column=6&margin-w=12&margin-h=15" alt="meness"></a> 
 
 ### My GitHub numbers
 
