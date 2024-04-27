@@ -3,8 +3,8 @@
 ### ChatGPT AI Expert | OpenAI | GPT-4 | Python | Chatbot | AI bot | ML
 
 
-<a href="mailto:aesshoferi@gmail.com"><img width="32" height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" /></a>
-<a href="https://wellfound.com/u/alexiam/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/wellfound/000000" alt="Wellfound" /></a>
+<a href="mailto:smanolaf38@gmail.com"><img width="32" height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" /></a>
+<a href="https://github.com/RisingStar38" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/wellfound/000000" alt="Wellfound" /></a>
 
 <a href="https://github.com/meness/"><img align="right" style="width:16rem; height:auto;" src="https://github.com/meness/meness/blob/main/IMG_1312.jpeg?raw=true" alt="Hey there"/></a>
 
