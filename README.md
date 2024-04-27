@@ -1,6 +1,6 @@
 # Hey there <img src="https://github.com/meness/meness/blob/main/wave.gif?raw=true" width="24px"/>
 
-### Full Stack Engineer | Technical Product Manager | OpenAI Enthusiast
+### ChatGPT AI Expert | OpenAI | GPT-4 | Python | Chatbot | AI bot | ML
 
 
 <a href="mailto:aesshoferi@gmail.com"><img width="32" height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" /></a>
