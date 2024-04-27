@@ -8,7 +8,7 @@
 
 <a href="https://github.com/meness/"><img align="right" style="width:16rem; height:auto;" src="https://github.com/meness/meness/blob/main/IMG_1312.jpeg?raw=true" alt="Hey there"/></a>
 
-👨‍💻 All about the front end for 6 years
+👨‍💻 All about the front end for 9 years
 
 💼 Leading teams & product management vet
 
@@ -18,11 +18,9 @@
 
 ⚡ Passionate coder, not just a job
 
-💬 Got questions? Ask ChatGPT or Google it <img src="https://github.com/meness/meness/blob/main/grin-sweat.gif?raw=true" width="16px"/>
-
 ## Technologies I'm into and pretty good at
 
-[![My Skills](https://skillicons.dev/icons?i=git,aws,bootstrap,css,docker,express,figma,firebase,github,html,java,js,kotlin,solidity,linux,mongodb,mysql,nextjs,nodejs,nestjs,react,redux,tailwind,ts,apollo,bun,cloudflare,cypress,gcp,gulp,heroku,jest,less,netlify,nginx,npm,prisma,reactivex,redis,regex,sass,sentry,vercel,yarn,chai&perline=13&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,openai,aws,bootstrap,css,docker,express,figma,firebase,github,html,java,js,kotlin,solidity,linux,mongodb,mysql,nextjs,nodejs,nestjs,react,redux,tailwind,ts,apollo,bun,cloudflare,cypress,gcp,gulp,heroku,jest,less,netlify,nginx,npm,prisma,reactivex,redis,regex,sass,sentry,vercel,yarn,chai&perline=13&theme=light)](https://skillicons.dev)
 
 ## My GitHub wins
 
