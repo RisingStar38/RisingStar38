@@ -29,15 +29,15 @@
 ### My GitHub numbers
 
 <p float="left">
-  <a href="https://github.com/meness/"><img src="https://gh-readme-stats.homaun.link/api?username=meness&include_all_commits=true&hide=stars,contribs&show=reviews,prs_merged" alt="meness" /></a>
-  <a href="https://github.com/meness/"><img src="https://gh-readme-streak-stats.homaun.link/?user=meness&mode=weekly&hide_longest_streak=true&card_width=350" alt="meness" /></a>
+  <a href="https://github.com/RisingStar38/"><img src="https://gh-readme-stats.homaun.link/api?username=meness&include_all_commits=true&hide=stars,contribs&show=reviews,prs_merged" alt="meness" /></a>
+  <a href="https://github.com/RisingStar38/"><img src="https://gh-readme-streak-stats.homaun.link/?user=meness&mode=weekly&hide_longest_streak=true&card_width=350" alt="meness" /></a>
 </p>
 
 ## Peek at my clean code skills
 
 <p float="left">
-  <a href="https://github.com/meness/linum-labs" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=linum-labs" alt="meness" /></a>
-  <a href="https://github.com/meness/ge-code-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=ge-code-challenge" alt="meness" /></a>
-  <a href="https://github.com/meness/neptune-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=neptune-challenge" alt="meness" /></a>
-  <a href="https://github.com/meness/spoke-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=spoke-challenge" alt="meness" /></a>
+  <a href="https://github.com/RisingStar38/linum-labs" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=linum-labs" alt="meness" /></a>
+  <a href="https://github.com/RisingStar38/ge-code-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=ge-code-challenge" alt="meness" /></a>
+  <a href="https://github.com/RisingStar38/neptune-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=neptune-challenge" alt="meness" /></a>
+  <a href="https://github.com/RisingStar38/spoke-challenge" target="_blank"><img src="https://gh-readme-stats.homaun.link/api/pin/?username=meness&repo=spoke-challenge" alt="meness" /></a>
 </p>
